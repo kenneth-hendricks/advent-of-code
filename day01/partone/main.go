@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "advent-of-code/day01/input"
+import "adventofcode2019/day01/input"
 
 func main() {
 	totalFuel := 0

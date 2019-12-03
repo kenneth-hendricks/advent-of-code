@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "strings"
 import "strconv"
-import "advent-of-code/day02/input"
+import "adventofcode2019/day02/input"
 import "os"
 
 func main() {
